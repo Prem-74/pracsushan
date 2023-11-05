@@ -38,3 +38,4 @@ jobs:
       run: |
         python sub.py
         python print.py
+        python calc.py
